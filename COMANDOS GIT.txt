@@ -18,3 +18,6 @@ git log --grep=“INVIE” –i- Busca los commits que cumplan sin importar may�
 git log – index.html- Busca los commits en un archivo en específico.
 git log -S “Por contenido”- Buscar los commits con el contenido dentro del archivo.
 git log > log.txt - guardar los logs en un archivo txt
+git push -> sirve para mandar al repositorio remoto las modificaciones del proyecto
+git pull -> sirve para traer una copia del proyecto en el repositorio remoto a mi repositorio local y al directorio de trabajo
+ 
