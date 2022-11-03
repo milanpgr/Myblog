@@ -20,3 +20,5 @@ git log -S “Por contenido”- Buscar los commits con el contenido dentro del a
 git log > log.txt - guardar los logs en un archivo txt
 git push -> sirve para mandar al repositorio remoto las modificaciones del proyecto
 git pull -> sirve para traer una copia del proyecto en el repositorio remoto a mi repositorio local y al directorio de trabajo
+git remote add origin URLdeGithub -> sirve para vincular nuestro git a github
+git pull origin master -> sirve para subir las modificaciones de nuestro repositorio local, al repositorio en github
